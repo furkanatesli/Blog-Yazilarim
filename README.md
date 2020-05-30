@@ -15,3 +15,4 @@ Bloğumda paylaştığım yazılarımı arşivlediğim repo.
 - [ ] “CondaHTTPError” Hatası Çözümü
 - [ ] İmgeyi Katmanlara Ayırma İşlemi
 - [ ] AWS OpenVPN Access Server Kurulumu.
+- [ ] İmgeyi Gri Tonlama İşlemi
