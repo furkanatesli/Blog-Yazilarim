@@ -8,8 +8,8 @@ Etiketler: beautifulsoup, interactive map, interaktif harita, leaflet, openstree
 
 Yazılım Tasarım Ve Mimarisi Dersi için geliştirdiğim İnteraktif Harita Uygulaması.
 
-Projeye Ait Repo: https://github.com/furkanatesli/interaktif-harita
-Proje Demosu: https://furkanatesli.github.io/interaktif-harita/index.html
+Projeye Ait Repo: https://github.com/furkanatesli/interaktif-harita</br>
+Proje Demosu: https://furkanatesli.github.io/interaktif-harita/index.html</br>
 
 #### Amaç
 
@@ -21,20 +21,20 @@ Projenin kapsamı içerik olarak verileri düzenli ve koordinat bilgisi sunan ve
 
 #### Referans Materyaller
 
-Projede kullanılan bot için “Python” dili kullanılmıştır.
-Harita üzerinde işaretçilerin gösterilmesi için ‘JavaScript’ dili kullanılmıştır.
-Haber ve Deprem bilgilerini Python üzerinde kaynaklardan çekmek için “BeautifulSoup” ve “urllib” modülleri kullanılmıştır.
-Haber veri kaynağı olarak “https://www.haberler.com/” kullanılmıştır.
-Deprem veri kaynağı olarak “http://www.koeri.boun.edu.tr/scripts/lst1.asp” kullanılmıştır.
-Elde edilen verileri işleyip bir harita üzerinde göstermek için “https://leafletjs.com/” kullanılmıştır.
-Harita kaynağı olarak “https://www.openstreetmap.org/“ kullanılmıştır.
+Projede kullanılan bot için “Python” dili kullanılmıştır.</br>
+Harita üzerinde işaretçilerin gösterilmesi için ‘JavaScript’ dili kullanılmıştır.</br>
+Haber ve Deprem bilgilerini Python üzerinde kaynaklardan çekmek için “BeautifulSoup” ve “urllib” modülleri kullanılmıştır.</br>
+Haber veri kaynağı olarak “https://www.haberler.com/” kullanılmıştır.</br>
+Deprem veri kaynağı olarak “http://www.koeri.boun.edu.tr/scripts/lst1.asp” kullanılmıştır.</br>
+Elde edilen verileri işleyip bir harita üzerinde göstermek için “https://leafletjs.com/” kullanılmıştır.</br>
+Harita kaynağı olarak “https://www.openstreetmap.org/“ kullanılmıştır.</br>
 
 #### Tanımlar Ve Kısaltmalar
 
-Urllib: Url’ler ile işlemler yapmak için oluşturulmuş bir Python kütüphanesi.
-BeautifulSoup: HTML veya XML dosyalarını işlemek için oluşturulmuş güçlü ve hızlı bir Python kütüphanesidir.
-OpenStreetMap: Kullanımı serbest ve açık lisans altında olan bir dünya haritasıdır.
-Leaflet: Mobil uyumlu interaktif haritalar için açık kaynaklı bir JavaScript kütüphanesidir.
+Urllib: Url’ler ile işlemler yapmak için oluşturulmuş bir Python kütüphanesi.</br>
+BeautifulSoup: HTML veya XML dosyalarını işlemek için oluşturulmuş güçlü ve hızlı bir Python kütüphanesidir.</br>
+OpenStreetMap: Kullanımı serbest ve açık lisans altında olan bir dünya haritasıdır.</br>
+Leaflet: Mobil uyumlu interaktif haritalar için açık kaynaklı bir JavaScript kütüphanesidir.</br>
 
 #### Sistem Görünümü
 
@@ -65,13 +65,13 @@ Kayıt ederken, işaret kontrolü için kaynak siteden gelen XML’i içerisinde
 
 #### Veri Sözlüğü
 
-Sehirler: Türkiye’deki sehirlerin isimlerinin yazılı olduğu liste.
-Koordinatlar: Türkiye’deki şehirlerin koordinatlarının yazılı olduğu liste.
-Deprem_cek: Kaynaktan deprem verilerini çekmeyi sağlayan fonksiyon.
-Haber_cek: Kaynaktan haber verilerini çekmeyi saylayan fonksiyon.
-Kaynak: Kaynaklardan gelen verilerin içeriklerin saklandığı değişken.
-Oku: Kaynak URL’den gelen verilerin saklandığı değişken.
-Sayaç: Şehirler ve Koordinat uyumunu sağlayan liste.
+Sehirler: Türkiye’deki sehirlerin isimlerinin yazılı olduğu liste.</br>
+Koordinatlar: Türkiye’deki şehirlerin koordinatlarının yazılı olduğu liste.</br>
+Deprem_cek: Kaynaktan deprem verilerini çekmeyi sağlayan fonksiyon.</br>
+Haber_cek: Kaynaktan haber verilerini çekmeyi saylayan fonksiyon.</br>
+Kaynak: Kaynaklardan gelen verilerin içeriklerin saklandığı değişken.</br>
+Oku: Kaynak URL’den gelen verilerin saklandığı değişken.</br>
+Sayaç: Şehirler ve Koordinat uyumunu sağlayan liste.</br>
 
 #### Bileşen Tasarımı
 ```
