@@ -9,10 +9,12 @@ Bloğumda paylaştığım yazılarımı arşivlediğim repo.
 - [x] İnteraktif Harita Projesi
 - [x] Linux Alias Tanımlama
 - [x] Linux DNS Değiştirme ve Ekleme
-- [ ] Multi Node Hadoop Kurulumu
-- [ ] Uzak Masaüstü Bağlantısı
+- [x] Multi Node Hadoop Kurulumu
+- [x] Uzak Masaüstü Bağlantısı
 - [ ] SSH Bağlantısı Kullanarak Sunucunuza Hız Testi Nasıl Yapılır?
 - [ ] “CondaHTTPError” Hatası Çözümü
 - [ ] İmgeyi Katmanlara Ayırma İşlemi
 - [ ] AWS OpenVPN Access Server Kurulumu.
 - [ ] İmgeyi Gri Tonlama İşlemi
+- [ ] Türkiye Hava Kalitesi Analizi
+- [ ] Faster R-CNN Modeli İle Heliport Uçak ve Gemi Tespiti
